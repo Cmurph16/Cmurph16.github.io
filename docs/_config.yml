@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  cmurph16
 
 # Build settings
-# theme: jekyll-theme-terminal
+theme: jekyll-theme-terminal
 # remote_theme: sharadcodes/jekyll-theme-serial-programmer 
 
 plugins:
