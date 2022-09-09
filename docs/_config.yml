@@ -30,8 +30,8 @@ twitter_username: jekyllrb
 github_username:  cmurph16
 
 # Build settings
-# theme: minima
-remote_theme: sharadcodes/jekyll-theme-serial-programmer 
+# theme: jekyll-theme-terminal
+# remote_theme: sharadcodes/jekyll-theme-serial-programmer 
 
 plugins:
   - jekyll-feed
