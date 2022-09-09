@@ -30,8 +30,9 @@ twitter_username: jekyllrb
 github_username:  cmurph16
 
 # Build settings
-theme: jekyll-theme-terminal
-# remote_theme: sharadcodes/jekyll-theme-serial-programmer 
+# theme: jekyll-theme-terminal
+remote_theme: Squifi/jekyll-theme-terminal
+
 
 plugins:
   - jekyll-feed
