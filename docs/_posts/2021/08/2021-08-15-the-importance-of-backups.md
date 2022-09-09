@@ -6,9 +6,7 @@ categories: "general"
 tags: "backup"
 ---
 
-[Where'S Our Backup GIF](https://tenor.com/view/i-dont-know-wheres-our-backup-police-the-simpsons-gif-11625986)from [I Dont Know GIFs](https://tenor.com/search/i+dont+know-gifs)
-
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+[Where'S Our Backup GIF](https://c.tenor.com/iqk3OKkO13gAAAAC/i-dont-know-wheres-our-backup.gif)
 
 To some, this may seem like an odd first post, especially with how different it is to the other future (at the time of writing) posts. There's a good reason for that, which put simply is that this is not the first post. I had somewhere in the range of 10 Hack the Box write-ups as well as a few random posts, which you may have noticed are nowhere to be found. Here is the story of how I got burned and why I'm now a big fan of excessive backups.
 
