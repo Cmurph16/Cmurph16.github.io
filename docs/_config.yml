@@ -31,7 +31,7 @@ github_username:  cmurph16
 
 # Build settings
 # theme: minima
-remote_theme: piharpi/jekyll-klise
+remote_theme: sharadcodes/jekyll-theme-serial-programmer 
 
 plugins:
   - jekyll-feed
